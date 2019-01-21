@@ -1,0 +1,14 @@
+
+-----------------------------------------------------------------
+  pg_upgrade run on Wed Jan 16 18:33:19 2019
+-----------------------------------------------------------------
+
+You must identify the directory where the old cluster binaries reside.
+Please use the -b command-line option or the PGBINOLD environment variable.
+
+-----------------------------------------------------------------
+  pg_upgrade run on Thu Jan 17 07:55:28 2019
+-----------------------------------------------------------------
+
+check for "/usr/local/Cellar/postgresql//bin" failed: No such file or directory
+
